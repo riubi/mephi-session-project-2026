@@ -1,0 +1,2 @@
+uid=1000(mephi-admin) gid=1001(mephi-admin) groups=1001(mephi-admin),1000(mephi-devs)
+mephi-devs:x:1000:mephi-admin

@@ -1,0 +1,8 @@
+# в образ нужен только setup.sh
+artifacts/
+*.rpm
+*.png
+*.jpg
+*.txt
+README.md
+.git/
